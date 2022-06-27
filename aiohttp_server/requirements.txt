@@ -1,0 +1,4 @@
+aiohttp==4.0.0a1
+aiohttp-jinja2==1.4.2 
+SQLAlchemy>=1.4.0
+aiodns==3.0.0
